@@ -17,7 +17,7 @@ class _MainPageState extends State<MainPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text('Validations'),
+        title: Text('VALIDATIONS'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(24.0),
